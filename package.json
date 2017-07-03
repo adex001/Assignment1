@@ -1,0 +1,21 @@
+{
+  "name": "getprimes",
+  "version": "1.0.0",
+  "description": "A function to return all prime functions given in a range",
+  "main": "src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "keywords": [
+    "GetPrines"
+  ],
+  "author": "Olatunbosun Adeoye",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
